@@ -5,7 +5,7 @@ Mechanical Engg. _(Major)_ & Electrical & Electronics Engg. _(Minor)_
   - **Looking for:** Research oppurtunities 
   - **Working on:** Developing codes to simulate physical phenomena
   - **Collaborate on:** Code for simulating compressible flows, turbulent reactive flows, astrophysical fluids and plasmas
-
+---
 ### Languages
 C++, Python, C, FORTRAN, R, MATLAB
 ### Libraries
@@ -14,6 +14,7 @@ OpenMP, Eigen, Cython, pybind11, Numpy, Matplotlib, Seaborn
 ### Softwares:
   - OpenFOAM, Gmsh, FEniCS
   - Ansys, CATIA, AutoCAD
+---
 ### Currently Learning:
   - GPU programming for running accelerated codes
   - CMake for making better build systems.
