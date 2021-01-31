@@ -28,5 +28,5 @@ Second year undergraduate at the National Institute of Technology, Karnataka maj
     - C++ Libraries: Eigen, pybind11
   - **OS:** Linux 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErinSam&theme=dark&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErinSam&theme=dark&layout=compact) -->
 
