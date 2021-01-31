@@ -1,10 +1,10 @@
 <h1 align="center">E. S. Joe</h1>
 
 Sophomore at the **National Institute of Technology, Karnataka** <br />
-Mechanical Engg. _(Major)_ & Electrical & Electronics Engg. _(Minor)_
-  - **Looking for:** Research oppurtunities 
-  - **Working on:** Developing codes to simulate physical phenomena
-  - **Collaborate on:** Code for simulating compressible flows, turbulent reactive flows, astrophysical fluids and plasmas
+Mechanical Engg. _(Major)_ | Electrical & Electronics Engg. _(Minor)_
+  - **Looking for:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research oppurtunities 
+  - **Working on:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developing codes to simulate physical phenomena
+  - **Collaborate on:** &nbsp;Code for simulating compressible flows, turbulent reactive flows, astrophysical fluids and plasmas
 ---
 ### Languages
 C++, Python, C, FORTRAN, R, MATLAB
